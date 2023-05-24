@@ -1,0 +1,37 @@
+*{
+    background-color: #f3d8ed;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.heading{
+    font-size: 40px;
+}
+
+.image{
+    height: auto;
+    width: 300px;
+    border-radius: 25px;
+}
+
+h4{
+    font-size: 25px;
+}
+
+.unordered{
+    list-style-type: circle;
+}
+
+.ordered{
+    list-style-type: lower-roman;
+    text-align: justify;
+}
+
+p,
+em{
+    text-align: justify;
+}
+
+.scroll{
+    font-size: 15px;
+}

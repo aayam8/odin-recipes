@@ -1,0 +1,41 @@
+*{
+    background-color: #f3d8ed;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.main{
+    font-size: 40px;
+}
+
+.image{
+    height: auto;
+    width: 400px;
+    border-radius: 25px;
+}
+
+.para.first{ 
+    text-align: justify;
+}
+
+.sub{
+    font-size: 25px;
+}
+
+.unordered{
+    list-style-type: circle;
+    text-align: left;
+}
+
+.ordered{
+    list-style-type: lower-roman;
+    text-align: left;
+}
+
+.para.second{
+    text-align: justify;
+}
+
+.scroll{
+    font-size: 15px;
+}
